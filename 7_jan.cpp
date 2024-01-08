@@ -26,6 +26,5 @@ int main(){
     vector<vector<int>> nums={{9,3},{8,6}};
     cout<<obj.areaOfMaxDiagonal(nums);
 
-
 return 0;
 }
