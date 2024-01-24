@@ -2,7 +2,7 @@
 using namespace std;
 
 class TreeNode {
-public:
+
     
     public:
     int val;
